@@ -1,0 +1,15 @@
+
+[трек 1](music/audio.mp3)
+[трек 2](music/audio(1).mp3)
+[трек 3](music/audio(2).mp3)
+[трек 4](music/audio(3).mp3)
+[трек 5](music/audio(4).mp3)
+[трек 6](music/audio(5).mp3)
+[трек 7](music/audio(6).mp3)
+[трек 8](music/audio(7).mp3)
+[трек 9](music/audio(8).mp3)
+[трек 10](music/audio(9).mp3)
+[трек 11](music/audio(10).mp3)
+[трек 12](music/audio(11).mp3)
+[трек 13](music/audio(12).mp3)
+
