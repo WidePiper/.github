@@ -1,15 +1,58 @@
+# WidePiper: Organization Overview
 
-[трек 1](../music/audio.mp3)
-[трек 2](../music/audio(1).mp3)
-[трек 3](../music/audio(2).mp3)
-[трек 4](../music/audio(3).mp3)
-[трек 5](../music/audio(4).mp3)
-[трек 6](../music/audio(5).mp3)
-[трек 7](../music/audio(6).mp3)
-[трек 8](../music/audio(7).mp3)
-[трек 9](../music/audio(8).mp3)
-[трек 10](../music/audio(9).mp3)
-[трек 11](../music/audio(10).mp3)
-[трек 12](../music/audio(11).mp3)
-[трек 13](../music/audio(12).mp3)
+Welcome to the WidePiper organization repository! This repository hosts the various components of the WidePiper project, a blockchain-powered platform designed to facilitate the management of derivative assets and interaction with blockchain wallets and decentralized exchanges (DEX). Below you'll find an overview of the project's architecture, guidelines for contribution, and links to the specific repositories for each component.
 
+## Project Structure
+
+WidePiper consists of several interconnected systems, which can be broken down into the following core components:
+
+### 1. Frontend
+
+The frontend provides users with an intuitive interface for interacting with their wallets, viewing derivative assets, and managing transactions.
+
+- **Key Features**: Portfolio management, user wallet interaction, transaction history display, and derivative management.
+
+You can find more information and the codebase for the frontend here: [Frontend Repository](#).
+
+### 2. Server (Backend)
+
+The server is responsible for managing user data, connecting to the blockchain, handling requests from the frontend, and ensuring a smooth flow of operations for the derivative management mechanism.
+
+- **Key Modules**: Wallet Management, Transaction Handling, Exchange Mechanism, Game Wallet Integration
+
+For more information, please visit the backend repository: [Backend Repository](#).
+
+### 3. Blockchain 
+
+The blockchain layer is the core of the WidePiper ecosystem. It includes smart contracts for managing tokens, executing derivative transactions, managing liquidity, and interacting with decentralized exchanges.
+
+- **Core Components**:
+  - **Smart Contracts for Tokens**: Smart contracts for the Idea and Matter tokens, which are used for staking within the ecosystem.
+  - **Smart Contract for Wallet Management**: A smart contract to manage user wallets within the application, enabling secure fund transfers and interaction with tokens.
+  - **Derivative Management Contract**: A smart contract to facilitate the placing and execution of derivative transactions.
+
+Access the blockchain code and resources here: [Blockchain Repository](https://github.com/RickCastle2018/wallets-manager).
+
+## Math Analysis Documentation
+
+Access the detailed mathematical analysis of the system here: [Math Analysis Document](../math.pdf). This document outlines key calculations, risk assessment metrics, and the mathematical models used in the WidePiper ecosystem.
+
+## Contributing
+
+We welcome contributions from the community. To contribute:
+
+1. Fork the repository.
+2. Create a feature branch.
+3. Submit a pull request detailing the changes you've made.
+
+Please review our [contribution guidelines](../contribution.pdf) before submitting any PRs.
+
+## Music Inspiration
+
+Here are some songs that inspired the creation of WidePiper. We recommend giving them a listen for some insight into the vibe and spirit behind the project:
+
+- [track 1](../music/audio(2).mp3)  
+- [track 2](../music/audio(3).mp3)  
+- [track 3](../music/audio(5).mp3)  
+- [track 4](../music/audio(8).mp3)  
+- [track 5](../music/audio(9).mp3)  
