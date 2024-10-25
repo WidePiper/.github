@@ -37,16 +37,6 @@ Access the blockchain code and resources here: [Blockchain Repository](https://g
 
 Access the detailed mathematical analysis of the system here: [Math Analysis Document](../math.pdf). This document outlines key calculations, risk assessment metrics, and the mathematical models used in the WidePiper ecosystem.
 
-## Contributing
-
-We welcome contributions from the community. To contribute:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Submit a pull request detailing the changes you've made.
-
-Please review our [contribution guidelines](../contribution.pdf) before submitting any PRs.
-
 ## Music Inspiration
 
 Here are some songs that inspired the creation of WidePiper. We recommend giving them a listen for some insight into the vibe and spirit behind the project:
@@ -56,3 +46,11 @@ Here are some songs that inspired the creation of WidePiper. We recommend giving
 - [track 3](../music/audio(5).mp3)  
 - [track 4](../music/audio(8).mp3)  
 - [track 5](../music/audio(9).mp3)  
+
+## License
+
+This project is licensed under the GNU General Public License v3.0.
+
+You are free to use, modify, and distribute this software, provided that any modifications you make are also shared under the same license terms.
+
+For more information, see the [LICENSE](../gnu.pdf) file included in this repository, or read the full license text at [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
