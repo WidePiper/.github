@@ -53,4 +53,4 @@ This project is licensed under the GNU General Public License v3.0.
 
 You are free to use, modify, and distribute this software, provided that any modifications you make are also shared under the same license terms.
 
-For more information, see the [LICENSE](../gnu.pdf) file included in this repository, or read the full license text at [GNU GPL v3.0](https://www.gnu.org/licenses/gpl-3.0.html).
+For more details, please refer to the full license file: [LICENSE](../LICENSE)
